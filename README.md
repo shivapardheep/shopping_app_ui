@@ -1,16 +1,13 @@
-# shopping_app_new
+View a list of products and Add new products Like a Shopping App.
 
-A new Flutter project.
+features:
+  *  home page all products are listed,
+  *  Add products button is bottom right side created.
+  *  if you click the button add products screen will opened.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+installation setup:
+note : type the cmd command
+1) flutter pub get
+2) flutter run
